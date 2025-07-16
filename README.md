@@ -12,7 +12,7 @@ This project marks the beginning of my freelance journey, with a focus on delive
 - WordPress (LocalWP)
 - Elementor Page Builder
 - Astra Theme
-- Custom illustrations from [undraw.co](https://undraw.co)
+- Custom illustrations from [storyset.com](https://storyset.com)
 - Responsive design for desktop and mobile
 
 ---
@@ -41,14 +41,6 @@ This site is structured clearly, styled professionally, and designed with real c
 | Home Page (3)      | ![Home 3](./screenshots/freelancing-3.png) |
 | Mobile View (1)    | ![Mobile 1](./screenshots/freelancing-mobile-1.png) |
 | Mobile View (2)    | ![Mobile 2](./screenshots/freelancing-mobile-2.png) |
-
----
-
-## 🎥 Demo Video
-
-🎬 [Watch Full Walkthrough](https://bit.ly/wordpress-demo-video)
-
-Includes page transitions, mobile view, and a full explanation of structure and design choices.
 
 ---
 
