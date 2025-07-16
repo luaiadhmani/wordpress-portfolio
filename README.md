@@ -1,90 +1,88 @@
 # 🌐 Freelance Services Website (WordPress)
 
-This is a fully customized **freelance portfolio website** built with **WordPress**, created to showcase my web design and development services.  
-The site was built independently using **Elementor**, the **Astra Theme**, and developed locally with **LocalWP**.
+This is my **first custom WordPress website**, built independently as a real-world freelance portfolio to showcase my web design and development services.
+
+I created it using **Elementor**, the **Astra Theme**, and developed it locally with **LocalWP** — no full tutorial, just research, trial and error, and practical learning.  
+This project marks the beginning of my freelance journey, with a focus on delivering quality work and constantly improving.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- WordPress (via LocalWP)
+- WordPress (LocalWP)
 - Elementor Page Builder
 - Astra Theme
 - Custom illustrations from [undraw.co](https://undraw.co)
-- Responsive design (desktop, tablet, mobile)
+- Responsive design for desktop and mobile
 
 ---
 
-## 📄 Project Description
+## 📄 Project Overview
 
-This is my first real-world freelance website built from scratch without following a step-by-step tutorial. 
-I began by studying and practicing with a Tech Startup Elementor template, then **rebuilt it into my own branded freelance services site** — structured clearly, styled consistently, and designed with real client work in mind.
+I started by experimenting with a Tech Startup template, then completely rebuilt and customized it into **my own branded freelance website**.  
+This site is structured clearly, styled professionally, and designed with real client projects in mind.
 
-### 🧩 The Website Includes:
-- 🏠 **Home Page** – Hero intro, service highlights, and smooth anchor links
-- 👤 **About Page** – My background, skills, and mission
-- 💼 **Services Page** – Clear list of the services I offer
-- ✉️ **Contact Page** – Simple contact form and navigation anchors
+### 🔍 Key Pages:
+- 🏠 **Home Page** – Hero intro, anchor links, and service highlights
+- 👤 **About Page** – My story, skills, and values
+- 💼 **Services Page** – A clean list of my offerings
+- ✉️ **Contact Page** – Functional form and easy navigation
 
 ---
 
 ## 📸 Screenshots
 
-> All images are inside the `/screenshots` folder
+> Located in `/screenshots/` folder
 
 | Page / View        | Preview |
 |--------------------|---------|
-| Home Page (1)      | ![Home 1](./screenshots/home-page-1.png) |
-| Home Page (2)      | ![Home 2](./screenshots/home-page-2.png) |
-| Home Page (3)      | ![Home 3](./screenshots/home-page-3.png) |
-| Mobile View (1)    | ![Mobile 1](./screenshots/responsive-mobile-1.png) |
-| Mobile View (2)    | ![Mobile 2](./screenshots/responsive-mobile-2.png) |
-| Mobile View (3)    | ![Mobile 3](./screenshots/responsive-mobile-3.png) |
+| Home Page (1)      | ![Home 1](./screenshots/freelancing-1.png) |
+| Home Page (2)      | ![Home 2](./screenshots/freelancing-2.png) |
+| Home Page (3)      | ![Home 3](./screenshots/freelancing-3.png) |
+| Mobile View (1)    | ![Mobile 1](./screenshots/freelancing-mobile-1.png) |
+| Mobile View (2)    | ![Mobile 2](./screenshots/freelancing-mobile-2.png) |
 
 ---
 
 ## 🎥 Demo Video
 
-🎬 [Watch Full Walkthrough Video](https://bit.ly/wordpress-demo-video)
+🎬 [Watch Full Walkthrough](https://bit.ly/wordpress-demo-video)
 
-This video shows the full website in action, including mobile responsiveness and smooth navigation between all pages.
-
----
-
-## 🚀 Development Journey
-
-Through this process, I learned:
-- How to build a real WordPress site without hosting
-- How to design responsive, modern layouts
-- How to showcase services in a way that’s ready for freelance clients
+Includes page transitions, mobile view, and a full explanation of structure and design choices.
 
 ---
 
-## 🧠 What I Learned
+## 💡 Learning Highlights
 
-- Designing responsive websites from scratch
-- Using Elementor efficiently without relying on templates
-- Turning a basic layout into a personal, client-ready project
-- Presenting my work with screenshots, videos, and GitHub
+- Building full websites without hosting
+- Designing responsive layouts from scratch
+- Using Elementor with intention (not just dragging and dropping)
+- Turning a practice layout into a real freelance asset
+- Presenting work clearly with screenshots and video
 
 ---
 
-## 📝 Future Plans
+## 🔄 Ongoing Improvements
 
-This is **version 1.0** of the website. I'm continuously improving it and plan to release future versions (v1.1, v1.2, etc.) with enhancements.
+This is **version 1.0** — I will keep updating it as I grow.
 
-Planned updates include:
-- Hosting the site live with a custom domain
+Planned updates:
+- Live deployment with a custom domain
 - Adding a blog section
-- Improving animations and contact form UX
-- Enhancing accessibility and performance
-- Offering this layout as a reusable template for client work
+- UX improvements (animations, contact form)
+- Performance and accessibility tweaks
+- Packaging it as a client-ready reusable template
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
-I'm a self-taught front-end developer and freelancer passionate about WordPress and web design.  
-This project is part of my journey to **earn income through real freelance work**, build a strong portfolio, and grow as a web professional.
+I'm Luai Adhmani, a self-taught frontend developer focused on **React** and **WordPress**.  
+I love learning by doing, solving real problems, and building clean, responsive websites.  
+My goal is to **earn through freelance work and remote jobs**, work with real clients, and grow every day.
 
-👉 [View my GitHub profile](https://github.com/luaiadhmani)
+📫 [Check out my GitHub](https://github.com/luaiadhmani)
+
+---
+
+> 💬 If you're a client, freelancer, or hiring remotely — I’d love to connect!
