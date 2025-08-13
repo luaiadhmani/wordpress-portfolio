@@ -28,12 +28,12 @@ WordPress (LocalWP) • Elementor • Astra Theme • Custom Illustrations
 
 | Page / View        | Preview |
 |--------------------|---------|
-| Home Page (1)      | ![1](./screenshots/1.png) |
-| Home Page (2)      | ![2](./screenshots/2.png) |
-| Home Page (3)      | ![3](./screenshots/3.png) |
-| Home Page (4)      | ![4](./screenshots/4.png) |
-| Mobile View (1)    | ![Mobile-1](./screenshots/mobile-1.png) |
-| Mobile View (2)    | ![Mobile-2](./screenshots/mobile-2.png) |
+| Home Page (1)      | ![1](./screenshots/1.PNG) |
+| Home Page (2)      | ![2](./screenshots/2.PNG) |
+| Home Page (3)      | ![3](./screenshots/3.PNG) |
+| Home Page (4)      | ![4](./screenshots/4.PNG) |
+| Mobile View (1)    | ![Mobile-1](./screenshots/mobile-1.PNG) |
+| Mobile View (2)    | ![Mobile-2](./screenshots/mobile-2.PNG) |
 
 ---
 
