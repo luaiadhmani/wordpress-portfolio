@@ -28,12 +28,12 @@ WordPress (LocalWP) • Elementor • Astra Theme • Custom Illustrations
 
 | Page / View        | Preview |
 |--------------------|---------|
-| Home Page (1)      | ![Home 1](./screenshots/freelancing-1.png) |
-| Home Page (2)      | ![Home 2](./screenshots/freelancing-2.png) |
-| Home Page (3)      | ![Home 3](./screenshots/freelancing-3.png) |
-| Home Page (3)      | ![Home 3](./screenshots/freelancing-3.png) |
-| Mobile View (1)    | ![Mobile 1](./screenshots/freelancing-mobile-1.png) |
-| Mobile View (2)    | ![Mobile 2](./screenshots/freelancing-mobile-2.png) |
+| Home Page (1)      | ![Home 1](./screenshots/1.png) |
+| Home Page (2)      | ![Home 2](./screenshots/2.png) |
+| Home Page (3)      | ![Home 3](./screenshots/3.png) |
+| Home Page (4)      | ![Home 3](./screenshots/4.png) |
+| Mobile View (1)    | ![Mobile 1](./screenshots/mobile-1.png) |
+| Mobile View (2)    | ![Mobile 2](./screenshots/mobile-2.png) |
 
 ---
 
